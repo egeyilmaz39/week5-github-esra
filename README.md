@@ -1,34 +1,46 @@
-# \# Week 5 GitHub Homework
+###### \# Week 5 GitHub Homework
 
-# 
+###### 
 
-# This repository was created for my Git and GitHub homework.
+###### This repository was created for my Git and GitHub homework.
 
-# It contains simple text files to practice version control.
+###### It contains simple text files to practice version control.
 
-# 
+###### 
 
-# \## Files
+###### \## Files
 
-# \- hello.txt
+###### \- hello.txt
 
-# \- notes.txt
+###### \- notes.txt
 
-# \- README.md
+###### \- README.md
 
-# 
+###### 
 
-# \## How to run
+###### \## How to run
 
-# 
+###### 
 
-# Clone the repository:
+###### Clone the repository:
 
-# 
+###### 
 
-# ```bash
+###### ```bash
 
-# git clone https://github.com/esraeylullofca/week5-github.git
+###### git clone https://github.com/esraeylullofca/week5-github.git
 
-# cd week5-githubs
+###### cd week5-githubs
+
+
+
+\## Usage
+
+
+
+To use this project, first clone the repository.
+
+
+
+Open the terminal in the project folder and read the files.
 
